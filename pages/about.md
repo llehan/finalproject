@@ -22,3 +22,4 @@ Not every page of Dr. Simpson's records was completed, and many pages were too d
 Please note that any errors or typos in this index are unintentional. If a mistake is spotted, we will work to correct it.
 Listed below, there is a blank example page from Dr. Simpson's record books to show the information he would have been documenting to report to the state for the birth record.
 
+{% include feature/pdf.html objectid="blankrecord" width="50" %}
